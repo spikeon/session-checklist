@@ -1,6 +1,6 @@
 {
   "name": "session-checklist",
   "version": "0.1.0",
-  "description": "Keeps a checklist of each request in this session and shows it in a sidebar pane",
+  "description": "Keeps a checklist of the requests in a Claude Code session and shows it in a sidebar pane. Claude marks tasks done, and you can click to check them.",
   "types": "./types/index.d.ts"
 }

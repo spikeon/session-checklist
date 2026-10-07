@@ -1,0 +1,6 @@
+{
+  "name": "session-checklist",
+  "version": "0.1.0",
+  "description": "Keeps a checklist of each request in this session and shows it in a sidebar pane",
+  "types": "./types/index.d.ts"
+}

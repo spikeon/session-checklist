@@ -2,6 +2,8 @@
 
 A Claude Code mod. It keeps a checklist of the requests in a session and shows the list in a sidebar pane.
 
+![The checklist pane next to a session](docs/screenshot.png)
+
 ## Commands
 
 - `/checklist`: open the pane.
